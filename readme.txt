@@ -1,4 +1,4 @@
-=== Cyr-To-Lat ===
+=== Irmologion ===
 Contributors: http://irmologion.ru/, Alexey Vidanov, Eugen Wissner
 Tags: cyrillic, slavonic, administrator
 Requires at least: 3.0
