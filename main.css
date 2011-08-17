@@ -1,0 +1,42 @@
+
+@font-face {
+    font-family: slavonic_font;
+    font-style: normal;
+    font-weight: normal;
+    src: url('/fonts/HirmUcs8.ttf');
+}
+
+@font-face {
+    font-family: slavonic_font_ie;
+    font-style: normal;
+    font-weight: normal;
+    src: url('/fonts/HirmIEUcs8.eot');
+}
+
+@font-face {
+    font-family: slavonic_font;
+    font-style: italic;
+    font-weight: normal;
+    src: url('/fonts/HirmSoUcs8.ttf');
+}
+
+@font-face {
+    font-family: slavonic_font_ie;
+    font-style: italic;
+    font-weight: normal;
+    src: url('/fonts/HirmSoIEUcs8.eot');
+}
+div.slavic {
+    font-family: "Hirmos ieUcs", slavonic_font, slavonic_font_ie;
+    font-size: 18px;
+}
+.slavic {
+    font-family: "Hirmos ieUcs", slavonic_font, slavonic_font_ie;
+    font-size: 18px;
+}
+
+
+.s1 {color:red;}
+div.slavic .kinovar {color:red;}
+div.slavic .slavic_gray {color:gray;}
+span.slavic_greek {font-family: 10pt/1.2em Arial, Helvetica, sans-serif;}
