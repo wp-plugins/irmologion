@@ -41,3 +41,6 @@ If you have any questions or comments, please drop me an email: http://vidanov.c
 
 = 1.0 =
 * Initial release
+
+= 1.01 =
+* Font size increased

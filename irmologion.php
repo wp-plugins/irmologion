@@ -3,7 +3,7 @@
 Plugin Name: Irmologion
 Plugin URI: http://vidanov.com/irmologion
 Description: Церковно-славянский шрифт на сайте
-Version: 1.0
+Version: 1.01
 Author: Vidanov
 Author URI: http://vidanov.com
 */
